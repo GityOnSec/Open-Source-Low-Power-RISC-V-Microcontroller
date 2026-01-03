@@ -1,0 +1,22 @@
+RV32I subset :
+ADD / SUB
+AND / OR / XOR
+LOAD / STORE
+BRANCH (BEQ)
+SHIFT
+Immediate Ops
+
+Architecture :
+2-stage pipeline (Fetch + Execute)
+Register file (32 × 32-bit)
+ALU
+Program Counter
+Memory interface
+Low-power clock gating
+Sleep instruction
+
+Output
+Runs small programs like :
+✔ Blinking LED
+✔ Sum of numbers
+✔ Fibonacci
