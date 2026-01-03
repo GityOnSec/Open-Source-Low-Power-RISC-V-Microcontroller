@@ -1,0 +1,14 @@
+riscv-lowpower-core/
+├── README.md
+├── LICENSE
+├── src/
+│   ├── core.v
+│   ├── alu.v
+│   ├── reg_file.v
+│   └── clk_gate.v
+├── tb/
+│   └── core_tb.v
+├── programs/
+│   └── fib.hex
+└── sim/
+    └── run.sh
