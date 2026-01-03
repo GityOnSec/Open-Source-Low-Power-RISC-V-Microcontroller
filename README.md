@@ -17,3 +17,8 @@ support future low-power embedded systems.
 | Supporter | $3    | Name in README |
 | Silver    | $7    | Email thanks   |
 | Gold      | $15   | Zoom chat/help |
+
+## Support My Work ❤️
+I am a recent Electronics & VLSI graduate building open-source 
+hardware projects full-time. If you like my work, please consider 
+supporting me — even $1 means a lot 😊
